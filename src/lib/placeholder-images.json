@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "securian-finance",
+      "description": "Abstract view of a financial claims management dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1574884280706-7342ca3d4231?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmaW5hbmNlJTIwZGFzaGJvYXJkfGVufDB8fHx8MTc3MDA4MTEyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance dashboard"
+    },
+    {
+      "id": "fab-loan",
+      "description": "A modern and secure loan portfolio monitoring application interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1726137065539-1aa2cb315e80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiYW5rJTIwYXBwbGljYXRpb258ZW58MHx8fHwxNzcwMTI5MjQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bank application"
+    },
+    {
+      "id": "jpmc-dnc",
+      "description": "Admin UI for managing rules and file uploads in a corporate environment.",
+      "imageUrl": "https://images.unsplash.com/photo-1627827963179-a8bb14121eb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhZG1pbiUyMGRhc2hib2FyZHxlbnwwfHx8fDE3NzAwNDg3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "admin dashboard"
+    },
+    {
+      "id": "aia-wellness",
+      "description": "A vibrant mobile app interface focused on user wellness and engagement.",
+      "imageUrl": "https://images.unsplash.com/photo-1480694313141-fce5e697ee25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzcwMDEzMjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "aig-cms",
+      "description": "The backend interface of a powerful content management system.",
+      "imageUrl": "https://picsum.photos/seed/aig/600/400",
+      "imageHint": "cms interface"
+    }
+  ]
 }
