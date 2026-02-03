@@ -99,6 +99,12 @@ export const resumeData = {
             description: "This project is a Quick Commerce web application that simulates a responsive and intelligent order fulfilment system. It models real-world interactions between users, virtual warehouses, and delivery hotspots, focusing on efficient order processing, delivery routing, and a personalized user experience. The system dynamically selects the nearest warehouse and delivery hotspot using proximity-based calculations and enhances product discovery through AI-powered recommendations.",
             tech: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "GenAI", "GitHub Copilot"],
             link: "https://gane27.github.io/ecommerce-angular/"
+        },
+        {
+            id: "data-driven-ui",
+            name: "Data-Driven-Ui-React",
+            description: "Built a fully dynamic data-driven UI engine in React where screens, forms, validations, layouts, and component behaviors are automatically generated from JSON configurations. Implemented a modular rendering system with reusable components (Form, Table, Tabs, Cards) powered by a schema-driven architecture. Enabled teams to build new screens without writing code, reducing development time by 60% and bringing enterprise-level scalability. Integrated role-based access, API-driven data binding, caching, and error boundaries for production-grade reliability.",
+            tech: ["React", "JSON Schema", "Dynamic Components"],
         }
     ],
     certifications: [
