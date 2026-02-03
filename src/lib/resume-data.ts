@@ -112,10 +112,6 @@ export const resumeData = {
         {
             degree: "M.Sc. Information Technology",
             institution: "Alagappa University",
-        },
-        {
-            degree: "B.Sc. Zoology",
-            institution: "University of Madras",
-        },
+        }
     ],
 };
