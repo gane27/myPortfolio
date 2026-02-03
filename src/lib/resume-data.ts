@@ -93,6 +93,13 @@ export const resumeData = {
             description: "Managed UI development and day-to-day content operations within the Tridion content management system for a global enterprise.",
             tech: ["Tridion", "CMS", "UI Development"],
         },
+        {
+            id: "smart-qcommerce",
+            name: "Smart Quick Commerce App with GenAI – React.js",
+            description: "A Quick Commerce web app simulating an intelligent order fulfilment system with proximity-based warehouse selection and AI-powered product recommendations.",
+            tech: ["React.js", "Node.js", "MongoDB", "GenAI"],
+            link: "https://gane27.github.io/ecommerce-angular/"
+        }
     ],
     certifications: [
         "Prompt Engineering for ChatGPT – Coursera",

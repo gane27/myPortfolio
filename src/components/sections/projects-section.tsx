@@ -44,7 +44,7 @@ export function ProjectsSection() {
                 )}
                 <CardHeader>
                   <CardTitle>{project.name}</CardTitle>
-                  <CardDescription>{project.role || ""}</CardDescription>
+                  <CardDescription>{(project as any).role || ""}</CardDescription>
                 </CardHeader>
                 <CardContent className="flex-grow flex flex-col">
                   <p className="text-muted-foreground text-sm mb-4 flex-grow">{project.description}</p>
@@ -54,8 +54,8 @@ export function ProjectsSection() {
                     ))}
                   </div>
                    <Button variant="link" className="p-0 h-auto self-start text-accent">
-                      <Link href={resumeData.contact.github} target="_blank" rel="noopener noreferrer">
-                        View on GitHub <ArrowRight className="inline ml-1 h-4 w-4" />
+                      <Link href={(project as any).link || resumeData.contact.github} target="_blank" rel="noopener noreferrer">
+                        {(project as any).link ? 'View Project' : 'View on GitHub'} <ArrowRight className="inline ml-1 h-4 w-4" />
                       </Link>
                     </Button>
                 </CardContent>
