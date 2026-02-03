@@ -96,8 +96,8 @@ export const resumeData = {
         {
             id: "smart-qcommerce",
             name: "Smart Quick Commerce App with GenAI – React.js",
-            description: "A Quick Commerce web app simulating an intelligent order fulfilment system with proximity-based warehouse selection and AI-powered product recommendations.",
-            tech: ["React.js", "Node.js", "MongoDB", "GenAI"],
+            description: "This project is a Quick Commerce web application that simulates a responsive and intelligent order fulfilment system. It models real-world interactions between users, virtual warehouses, and delivery hotspots, focusing on efficient order processing, delivery routing, and a personalized user experience. The system dynamically selects the nearest warehouse and delivery hotspot using proximity-based calculations and enhances product discovery through AI-powered recommendations.",
+            tech: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "GenAI", "GitHub Copilot"],
             link: "https://gane27.github.io/ecommerce-angular/"
         }
     ],
